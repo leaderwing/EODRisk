@@ -1,0 +1,6 @@
+QuoteType,PriceDate,Perimeter_KdbTableId,Perimeter_Id,PositionOwner_Id,RevalRateMid,RevalRateAsk,RevalRateBid,Currencies.Ref
+QuoteType,PriceDate,Perimeter_KdbTableId,Perimeter_Id,MarketPriceBid,MarketPriceAsk,Accrued,AdjFactor,Bonds.Ref
+QuoteType,SaveDate,Perimeter_KdbTableId,Perimeter_Id,PositionOwner_Id,PointsMid,PointsBid,PointsAsk,Pairs.Ref,MaturityClasses.Ref,PositionOwner.Ref
+FRDate,Rate,ReplicatedUpdate,FloatingRates.Ref
+Curve short name,Tenor,Value
+

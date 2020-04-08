@@ -1,0 +1,65 @@
+########### Record no 1 ###########
+ACTION INS
+TBL	BondsQuotes
+QuoteType	R
+PriceDate	16/01/2020
+Perimeter_KdbTableId	0
+Perimeter_Id	0
+MarketPriceBid	555
+MarketPriceAsk	555
+Accrued	NULL
+AdjFactor	0
+Bonds.Ref	BVBS15176
+EOR
+########### Record no 2 ###########
+ACTION INS
+TBL	BondsQuotes
+QuoteType	R
+PriceDate	16/01/2020
+Perimeter_KdbTableId	0
+Perimeter_Id	0
+MarketPriceBid	555
+MarketPriceAsk	555
+Accrued	NULL
+AdjFactor	0
+Bonds.Ref	TD1621488
+EOR
+########### Record no 3 ###########
+ACTION INS
+TBL	BondsQuotes
+QuoteType	R
+PriceDate	16/01/2020
+Perimeter_KdbTableId	0
+Perimeter_Id	0
+MarketPriceBid	555
+MarketPriceAsk	555
+Accrued	NULL
+AdjFactor	0
+Bonds.Ref	TD1621475
+EOR
+########### Record no 4 ###########
+ACTION INS
+TBL	BondsQuotes
+QuoteType	R
+PriceDate	16/01/2020
+Perimeter_KdbTableId	0
+Perimeter_Id	0
+MarketPriceBid	555
+MarketPriceAsk	555
+Accrued	NULL
+AdjFactor	0
+Bonds.Ref	TD1631463
+EOR
+########### Record no 5 ###########
+ACTION INS
+TBL	BondsQuotes
+QuoteType	R
+PriceDate	16/01/2020
+Perimeter_KdbTableId	0
+Perimeter_Id	0
+MarketPriceBid	555
+MarketPriceAsk	555
+Accrued	NULL
+AdjFactor	0
+Bonds.Ref	TD1724413
+EOR
